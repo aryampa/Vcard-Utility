@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VcfTool_V3_Added_VCFfilter", "VcfTool_V3_Added_VCFfilter\VcfTool_V3_Added_VCFfilter.csproj", "{FE2437BC-1D87-4F0E-91FE-A0C2677D7970}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE2437BC-1D87-4F0E-91FE-A0C2677D7970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE2437BC-1D87-4F0E-91FE-A0C2677D7970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE2437BC-1D87-4F0E-91FE-A0C2677D7970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE2437BC-1D87-4F0E-91FE-A0C2677D7970}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
